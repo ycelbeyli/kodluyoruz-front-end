@@ -1,1 +1,1 @@
-# Kodluyoruz Front-End Developer eğitimindeki ilk ödev.
+##Kodluyoruz Front-End Developer Eğitimi Kapsamındaki Yaptığım  İlk Ödev.
